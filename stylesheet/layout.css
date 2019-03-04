@@ -1,7 +1,7 @@
 body {
   overflow: hidden;
 
-  margin-top: 12em;
+  margin-top: 350px;
 
   text-align: center;
 
@@ -32,7 +32,7 @@ h1 {
 }
 
 footer {
-  padding-top: 21em;
+  padding-top: 400px;
 
   font-family: 'AvantGarde';
   font-size: 14pt;
