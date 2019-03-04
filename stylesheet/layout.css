@@ -1,0 +1,29 @@
+body {
+  margin-top: 12em;
+
+  text-align: center;
+
+  color: #525588;
+	background-image: linear-gradient(to right, #92dca9 , #fff);
+
+  font-family: "AvantGarde", sans-serif;
+	font-weight: 300;
+}
+
+h1 {
+  margin-top: 100px;
+
+  font-size: 36pt;
+}
+
+.typewriter {
+  animation: caret 1s steps(1) infinite;
+
+  border-right: .05em solid;
+}
+
+@keyframes caret {
+  50% {
+    border-color: transparent;
+  }
+}
